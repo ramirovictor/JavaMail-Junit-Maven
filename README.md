@@ -1,7 +1,9 @@
-![213665099_1019281575507133_3145508842294613120_n](https://user-images.githubusercontent.com/37045332/125006560-d1efb180-e034-11eb-947e-e8e3ca858d6c.jpg)
+![Java Email Logo](https://user-images.githubusercontent.com/37045332/125006560-d1efb180-e034-11eb-947e-e8e3ca858d6c.jpg)
 
-## Java Project - to send email with Java
-### Didactic project used in Java Web Full-Stack training course - JDevTreinamento. 
-> Status: Done
+# Java Project - Email Sender 📧
 
+## 🎓 Didactic Project
+This project was developed during the Java Web Full-Stack training course provided by JDevTreinamento, aiming to send emails using Java.
+
+> **Status:** 🌐 Done
 
